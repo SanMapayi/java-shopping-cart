@@ -1,0 +1,72 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+# Build output and IDE state
+target/
+out/
+build/
+bin/
+obj/
+.idea/
+.vs/
+.settings/
+.classpath
+.project
+*.iml
+*.class
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.local.properties
+# Generated reports, browser drivers, and local data
+/Drivers/
+/drivers/
+/LogFile/
+/logfiles/
+/screenshots/
+test-output/
+test-results/
+/Reports/
+/reports/
+*.log
+*.exe
+*.dll
+*.db
+*.sqlite
+/data/
+/dataset/
+/output/
+src/main/java/textFileLocation/
+src/main/java/properties/config.properties
